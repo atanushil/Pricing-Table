@@ -5,6 +5,7 @@ This repository contains HTML and CSS code for a simple and elegant pricing tabl
 ## Description
 
 This HTML/CSS code creates a responsive pricing table with three different plans: Basic, Standard, and Premium. Each plan displays its title, price, features, and a signup button. The design is clean and straightforward, making it easy for users to compare the plans and choose the one that fits their needs.
+## Demo Link : https://atanushil.github.io/Pricing-Table/
 
 ## Features
 
@@ -19,7 +20,7 @@ To use this pricing table in your project, follow these steps:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/pricing-table.git
+git clone https://github.com/atanushil/Pricing-Table.git
 ```
 
 2. Open the `index.html` file in your preferred web browser to see the pricing table in action.
